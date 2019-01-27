@@ -1,0 +1,23 @@
+body {
+  background-image: url("folk-pattern.png");
+}
+
+h2, label, legend, table {
+  font-family: 'Sawarabi Mincho', sans-serif;
+  background-color: white;
+}
+
+legend {
+  border: solid 3px black;
+  background-color: #92DACE
+}
+
+h2 {
+  font-weight: bold;
+  background-color: #2B4B8A;
+  color: white;
+}
+
+label {
+  font-weight: bold;
+}
