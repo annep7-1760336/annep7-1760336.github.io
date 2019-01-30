@@ -1,4 +1,4 @@
-img {
+#round {
   border-radius: 50%;
   float: right;
   height: 300px;
@@ -8,4 +8,49 @@ img {
 
 h1 {
   font-size: 50px;
+}
+
+h2 {
+  font-family: 'Major Mono Display', monospace;
+}
+
+#second {
+  font-family: 'Raleway', sans-serif;
+}
+
+#dog {
+  width: 50px;
+  height: 50px;
+}
+
+body {
+  background-color: #C0E3F2;
+}
+
+#text {
+  font-size: 100px;
+  color: white;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+#sleep {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#dot {
+  border-style: dotted;
 }
